@@ -1,12 +1,10 @@
-## Running tests
+## Setting the environment
 
-For running test you need to install Nightwatch: https://nightwatchjs.org/
+* For running test you need to install Nightwatch: https://nightwatchjs.org/
 
-## Enviroment
-
-You need to place bin folder with chromedrive: http://chromedriver.chromium.org/
+* You need to place bin folder with chromedrive: http://chromedriver.chromium.org/
 
 
-## Run
+## Start tests
 
 `nightwatch tests\test_angular.js`
